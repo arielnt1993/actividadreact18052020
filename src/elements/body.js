@@ -1,11 +1,10 @@
 import React from 'react';
-import Btn from './button'
 
+import Counter from './counter'
 
 function Body(){
     return <div>
-        <Btn name="sumar" />
-        <Btn name="restar"/>
+        <Counter/>
     </div>;
 }
 

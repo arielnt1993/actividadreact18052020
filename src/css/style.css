@@ -1,0 +1,9 @@
+.ui.button{
+    display: inline;
+}
+#contador {
+    display: inline;
+}
+#btnCounter{
+    text-align: center;
+}
